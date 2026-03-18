@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="#3B6FFF"/>
+  <g fill="#fff">
+    <!-- < -->
+    <path d="M100 216v-8L0 256l100 48v-8l-72-36v-8l72-36z"/>
+    <!-- : (squares) -->
+    <rect x="128" y="208" width="32" height="32"/>
+    <rect x="128" y="272" width="32" height="32"/>
+    <!-- // -->
+    <path d="M284 168h-16l-64 176h16l64-176z"/>
+    <path d="M400 168h-16l-64 176h16l64-176z"/>
+    <!-- > -->
+    <path d="M412 216v-8l100 48-100 48v-8l72-36v-8l-72-36z"/>
+  </g>
+</svg>
